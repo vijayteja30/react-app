@@ -50,7 +50,7 @@ phases:
 artifacts:
   files:
     - '**/*'
-  # name: $(date +%Y-%m-%d)
+  name: $(date +%Y-%m-%d)
   discard-paths: no
   base-directory: build
 #cache:
