@@ -52,7 +52,7 @@ artifacts:
     - '**/*'
   # name: $(date +%Y-%m-%d)
   discard-paths: no
-  base-directory: build
+  # base-directory: build
 #cache:
   #paths:
     # - paths
